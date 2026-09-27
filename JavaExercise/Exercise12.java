@@ -1,3 +1,6 @@
+Q) Write a Java program to check whether a given integer entered by the user is positive, negative, or zero.
+
+Sol:-
 import java.util.Scanner;
 
 public class Exercise12 {
