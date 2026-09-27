@@ -1,3 +1,6 @@
+Q) Write a Java program to perform and display bitwise operations (Bitwise OR, Bitwise AND, and Bitwise NOT) on integers entered by the user.
+
+Sol:-
 import java.util.Scanner;
 
 public class Exercise17 {
