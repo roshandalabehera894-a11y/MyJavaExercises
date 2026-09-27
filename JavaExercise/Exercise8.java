@@ -1,3 +1,6 @@
+Q) Write a Java program to calculate and display the perimeter of a rectangle, taking its length and width as input from the user.
+
+Sol:-
 import java.util.Scanner;
 public class Exercise8 {
     public static void  main(String [] args){
