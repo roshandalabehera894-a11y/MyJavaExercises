@@ -1,3 +1,6 @@
+Q) Create a program to prompt the user for two numbers (a and b), add them together, and display the result.
+
+sol:-    
 import java.util.Scanner;
 
 public class Exercise3 {
