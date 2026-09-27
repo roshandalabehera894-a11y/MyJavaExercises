@@ -1,5 +1,7 @@
 // Q. Create a program and swap two numbers.
- import java.util.Scanner;
+
+Sol:-
+import java.util.Scanner;
 
 public class Exercise4 {
     static void main(String[] args) {
