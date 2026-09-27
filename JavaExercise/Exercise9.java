@@ -1,3 +1,6 @@
+Q) Write a Java program to calculate the Simple Interest (SI) and the Total Amount, taking Principal ($P$), Rate of Interest ($R$), and Time period ($T$) as input from the user."
+
+Sol:-    
 import java.util.Scanner;
 public class Exercise9 {
     public static void main(String [] args){
