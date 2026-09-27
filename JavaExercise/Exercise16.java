@@ -1,3 +1,6 @@
+Q) Write a Java program to calculate and display a student's grade based on their exam percentage.
+    
+Sol:-
 import java.util.Scanner;
 public class Exercise16 {
     public static void main(String [] args){
