@@ -1,3 +1,6 @@
+Q) Write a Java program to calculate the Compound Interest (CI) and the Total Amount, taking Principal ($P$), Rate of interest ($R$), and Time period ($T$) as input from the user.
+
+Sol:-    
 import java.util.Scanner;
 public class Exercise10 {
     public static void main(String [] args){
