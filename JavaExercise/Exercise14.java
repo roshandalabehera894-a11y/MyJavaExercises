@@ -1,3 +1,6 @@
+Q) Write a Java program to find and display the greatest (largest) among three numbers entered by the user.
+
+Sol:-
 import java.util.Scanner;
 public class Exercise14 {
     public static void main(String [] args){
