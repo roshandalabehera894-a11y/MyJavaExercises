@@ -1,3 +1,6 @@
+Q) Write a Java program to convert temperature from Fahrenheit (°F) to Celsius (°C), taking the temperature in Fahrenheit as user input.
+
+Sol:-
 import java.util.Scanner;
 public class Exercise11 {
     public static void main(String [] args){
